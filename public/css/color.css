@@ -1,0 +1,14 @@
+/* Couleurs */
+
+:root {
+    --ifapme-bordeaux: #7d003e;
+    --ifapme-bordeaux-light: #a0004f;
+    --ifapme-rose: #e50043;
+    --ifapme-rose-light: #ff1a5c;
+    --ifapme-gradient: linear-gradient(135deg, #7d003e 0%, #a0004f 50%, #e50043 100%);
+    --ifapme-gradient-reverse: linear-gradient(135deg, #e50043 0%, #ff1a5c 100%);
+    --ifapme-white: #ffffff;
+    --ifapme-gray-light: #e5e5e5;
+    --ifapme-gray: #b3b3b3;
+    --ifapme-gray-dark: #444444;
+}

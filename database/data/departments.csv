@@ -1,0 +1,80 @@
+department_id,department_type_id,name,code,address,zip_code,city
+1,5,Comité de gestion,CGE,Place verte 15,6000,Charleroi
+2,5,Auditeur interne,AIN,Place verte 15,6000,Charleroi
+3,5,Administration Générale,AGE,Place verte 15,6000,Charleroi
+4,4,Direction Contrôle interne et Qualité,DCQ,Place verte 15,6000,Charleroi
+5,4,Direction Juridique,DJU,Place verte 15,6000,Charleroi
+6,4,Direction Communication et Marketing,DCM,Place verte 15,6000,Charleroi
+7,4,Direction relations internationales et institutionnelles,DRI,Place verte 15,6000,Charleroi
+8,4,Cellule Sécurité de l'information,C-SIN,Place verte 15,6000,Charleroi
+9,4,Service interne de Prévention et de Sécurité au travail,SIPPT,Place verte 15,6000,Charleroi
+10,4,Project Management office,PMO,Place verte 15,6000,Charleroi
+11,4,Département Stratégie et Développement,D-SDE,Place verte 15,6000,Charleroi
+12,4,Service Centre de Contact,S-CCO,Place verte 15,6000,Charleroi
+13,4,Direction Veille et Gestion des données,DVD,Place verte 15,6000,Charleroi
+14,4,Direction Stratégie Partenariat et Innovation,DSPI,Place verte 15,6000,Charleroi
+15,4,Direction du Développement Pédagogique,DDP,Place verte 15,6000,Charleroi
+16,4,Service Techno-Pédagogue,S-TPE,Place verte 15,6000,Charleroi
+17,4,Cellule Conseiller Pédagogique,C-CPE,Place verte 15,6000,Charleroi
+18,4,Service Formation à la création d'entreprises,S-FCR,Place verte 15,6000,Charleroi
+19,4,Département des Ressources,D-RES,Place verte 15,6000,Charleroi
+20,4,Direction Infrastructures et Logistiques,DIL,Place verte 15,6000,Charleroi
+21,4,Direction informatique,DIT,Place verte 15,6000,Charleroi
+22,4,Direction Financière et Comptable,DFC,Place verte 15,6000,Charleroi
+23,4,Service Comptabilité,S-CPT,Place verte 15,6000,Charleroi
+24,4,Direction des Ressources Humaines,DRH,Place verte 15,6000,Charleroi
+25,4,Département des Actions opérationnelles de Formation en Alternance et tout au long de la vie,D-AFA,Place verte 15,6000,Charleroi
+26,2,Service Alternance (générique),S-ALT,,,
+27,2,Service Formation et Alternance,S-FAL,,,
+28,3,Direction Territoriale de Liège,DTL,,,
+29,2,Service Alternance de Grâce-Hollogne,S-GHO,,,
+30,2,Service Alternance de Liège,S-LIE,,,
+31,2,Service Alternance de Verviers,S-VER,,,
+32,2,Service Alternance de Villers-le-Bouillet,S-VLB,,,
+33,3,Direction Territoriale de Namur - Brabant Wallon - Luxembourg,DTN,,,
+34,2,Service Alternance d’Arlon,S-ARL,,,
+35,2,Service Alternance de Dinant,S-DIN,,,
+36,2,Service Alternance de Namur,S-NAM,,,
+37,2,Service Alternance du Libramont,S-LIB,,,
+38,2,Service Alternance de Perwez,S-PER,,,
+39,2,Service Alternance de Wavre,S-WAV,,,
+40,3,Direction Territoriale du Hainaut,DTH,,,
+41,2,Service Alternance de Braine-Le-Comte,S-BLC,,,
+42,2,Service Alternance de Charleroi (Gosselies),S-GOS,,,
+43,2,Service Alternance de Charleroi (Gilly),S-GIL,,,
+44,2,Service Alternance de Charleroi (E6K),S-E6K,,,
+45,2,Service Alternance de Charleroi (La Chaufferie),S-LCH,,,
+46,2,Service Alternance de La Louvière,S-LLE,,,
+47,2,Service Alternance de Mons,S-MON,,,
+48,2,Service Alternance de Tournai,S-TOU,,,
+49,1,Centre de formation IFAPME (générique),CFI,,,
+50,1,Centre de Formation IFAPME Wallonie picarde (asbl),CF-WAP,,,
+51,1,Centre IFAPME de Tournai (Wallonie picarde),CF-TOU,,,
+52,1,Centre de Formation IFAPME Mons-Borinage-Centre (asbl),CF-MBC,,,
+53,1,Centre IFAPME de Mons,CF-MON,,,
+54,1,Centre IFAPME de La Louvière,CF-LLE,,,
+55,1,Centre IFAPME de Braine-le-Comte,CF-BLC,,,
+56,1,Centre de Formation IFAPME de Charleroi (asbl),CF-CHA,,,
+57,1,Centre IFAPME de Charleroi (Gosselies),CF-GOS,,,
+58,1,Centre IFAPME de Charleroi (Gilly),CF-GIL,,,
+59,1,Centre IFAPME de Charleroi (E6K),CF-E6K,,,
+60,1,Centre IFAPME de Charleroi (La Chaufferie),CF-LCH,,,
+61,1,Centre de Formation IFAPME de Namur/Brabant Wallon Namur (asbl),CF-NBW,,,
+62,1,Centre IFAPME de Namur,CF-NAM,,,
+63,1,Centre IFAPME de Namur (Belgrade),CF-BEL,,,
+64,1,Centre IFAPME de Perwez,CF-PER,,,
+65,1,Centre IFAPME de Wavre (Limal),CF-WAV,,,
+66,1,Centre IFAPME de Gembloux,CF-GEM,,,
+67,1,Centre IFAPME de Gembloux (Les Isnes - G1),CF-GG1,,,
+68,1,Centre IFAPME de Gembloux (Les Isnes - G2),CF-GG2,,,
+69,1,Centre de Formation IFAPME du Luxembourg (asbl),CF-LUX,,,
+70,1,Centre IFAPME d'Arlon,CF-ARL,,,
+71,1,Centre IFAPME de Libramont,CF-LIB,,,
+72,1,Centre IFAPME de Marche-en-famenne (Marloie),CF-MAR,,,
+73,1,Centre de Formation IFAPME de Liège -Huy-Verviers (asbl),CF-LHV,,,
+74,1,Centre IFAPME de Liège,CF-LIE,,,
+75,1,Centre IFAPME de Verviers,CF-VER,,,
+76,1,Centre IFAPME de Villers,CF-VLB,,,
+77,1,Centre IFAPME de Grâce-Hollogne,CF-GHO,,,
+78,1,Centre de Formation IFAPME de Dinant (asbl),CF-DIN,,,
+79,1,Centre IFAPME de Dinant (Bouvignes),CF-BOU,,,

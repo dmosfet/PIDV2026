@@ -1,0 +1,92 @@
+@page {
+    margin: 0; /* On gère les marges nous-mêmes */
+}
+
+body {
+    font-family: sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+/* La Barre Latérale */
+.left-border {
+    position: fixed;
+    left: 0;
+    top: 0;
+    bottom: 0;
+    width: 43mm;
+    background-color: #ffffff;
+    padding:0;
+    margin-left: 8mm;
+    z-index: 100;
+}
+
+/* Le corps du texte (La partie droite) */
+.main-wrapper {
+    font-family: 'Arial', sans-serif;
+    font-size: 11pt;
+    margin-left: 51mm;
+    margin-right: 20mm;
+    margin-bottom: 40mm;
+}
+
+.logo-box {
+    padding-top: 5mm;
+    width: 100%;
+    text-align: left;
+}
+
+/* Vos styles spécifiques */
+.dept-title {
+    font-size: 12pt;
+    font-weight: bold;
+    text-transform: uppercase;
+    line-height: 14pt;
+    color: rgba(0, 0, 0, 0.6);
+}
+
+.dept-ifapme {
+    font-size: 7pt;
+    line-height: 10pt;
+    color: rgba(0, 0, 0, 0.6);
+}
+
+.dept-info {
+    font-weight: bold;
+    margin-top: 20px;
+    font-size: 7pt;
+    color: #606060;
+}
+
+.sender {
+    margin-top: 10px;
+    font-size: 7pt;
+    color: #606060;
+}
+
+.sender strong {
+    color: red;
+}
+
+.date-place {
+    margin-top: 15mm;
+    text-align: right;
+}
+
+.recipient-box {
+    margin-top: 70px;
+    margin-left: 200px
+}
+
+.meta-data {
+    margin-top: 60px;"
+}
+
+.content {
+    margin-top: 20px;
+}
+
+.signature-block {
+    margin-top: 50px;
+    margin-left: 80mm;
+}
